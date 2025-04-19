@@ -1,0 +1,7 @@
+[project]
+name = "teleclass"
+version = "0.1.0"
+description = "Scalable FastAPI service for receiving, filtering and classifying incoming messages from Telegram groups and channels"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
